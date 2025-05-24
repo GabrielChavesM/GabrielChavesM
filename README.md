@@ -1,6 +1,16 @@
 ## I'm Gabriel 👋
 
-<div align="center">
-<img alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielChavesM&show_icons=true&theme=transparent&custom_title=Gabriel's%20stats"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavesM&layout=compact&&langs_count=8"/>
-</div>
+<table>
+  <tr>
+    <td align="center"><strong>📊 GitHub Stats</strong></td>
+    <td align="center"><strong>💻 Top Languages</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielChavesM&show_icons=true&theme=transparent"/>
+    </td>
+    <td>
+      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavesM&layout=compact&langs_count=6&theme=transparent"/>
+    </td>
+  </tr>
+</table>
