@@ -24,7 +24,7 @@
 ### 🤖 Automation & Tooling
 - **[WhatsApp-GPT](https://github.com/GabrielChavesM/WhatsApp-GPT)**  
 - **[geolocator_location_history](https://github.com/GabrielChavesM/geolocator_location_history)**
-- **[Study_AI-Python_ML](https://github.com/GabrielChavesM/Study_AI-Python_ML)**  
+- **[Study_AI-Python](https://github.com/GabrielChavesM/Study_AI-Python)**  
 ---
 
 ### 🧠 Machine Learning
