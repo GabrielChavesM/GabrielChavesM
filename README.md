@@ -7,10 +7,10 @@
   </tr>
   <tr>
     <td>
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielChavesM&show_icons=true&theme=transparent"/>
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielChavesM&show_icons=true&count_private=true&hide_title=true&hide_rank=true&hide=languages&theme=transparent"/>
     </td>
     <td>
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavesM&layout=compact&langs_count=6&theme=transparent"/>
+      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavesM&layout=compact&langs_count=6&theme=transparent&hide=C%2B%2B"/>
     </td>
   </tr>
 </table>
@@ -18,31 +18,36 @@
 ---
 
 ### 🤖 Automation & Tooling
-- **[WhatsApp-GPT](https://github.com/GabrielChavesM/WhatsApp-GPT)**  
-- **[geolocator_location_history](https://github.com/GabrielChavesM/geolocator_location_history)**
-- **[Study_AI-Python](https://github.com/GabrielChavesM/Study_AI-Python)**  
+- **[WhatsApp-GPT](https://github.com/GabrielChavesM/WhatsApp-GPT)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" title="Python"/> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="20" title="WhatsApp"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="20" title="OpenAI"/>
+- **[geolocator_location_history](https://github.com/GabrielChavesM/geolocator_location_history)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
+- **[Study_AI-Python](https://github.com/GabrielChavesM/Study_AI-Python)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
+
 ---
 
 ### 🧠 Machine Learning
-- **[ShowdownBattleAssistant](https://github.com/GabrielChavesM/ShowdownBattleAssistant)**  
+- **[ShowdownBattleAssistant](https://github.com/GabrielChavesM/ShowdownBattleAssistant)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20"/>
+
 ---
 
 ### 📦 Python Packages & CLIs
-- **[blackjack](https://github.com/GabrielChavesM/blackjack)**  
+- **[blackjack](https://github.com/GabrielChavesM/blackjack)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
+
 ---
 
 ### 🌐 Client–Server & Networking
-- **[SocketServerChat-C_sharp_dotNET](https://github.com/GabrielChavesM/SocketServerChat-C_sharp_dotNET)**  
+- **[SocketServerChat-C_sharp_dotNET](https://github.com/GabrielChavesM/SocketServerChat-C_sharp_dotNET)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20"/>
+
 ---
 
 ### ⚙️ Low Level & Systems
-- **[Silicon_CPU_TemperatureMonitor-C_Assembly](https://github.com/GabrielChavesM/Silicon_CPU_TemperatureMonitor-C_Assembly)**  
+- **[Silicon_CPU_TemperatureMonitor-C_Assembly](https://github.com/GabrielChavesM/Silicon_CPU_TemperatureMonitor-C_Assembly)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/>
+
 ---
 
 ### 🎮 Games
-- **[TopGear-Cpp_racing-game](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game)**  
+- **[TopGear-Cpp_racing-game](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/>
+
 ---
 
 ### 🎓 Academic Projects
-- **[TRABALHO_PRATICO_2](https://github.com/GabrielChavesM/TRABALHO_PRATICO_2)**  
----
+- **[TRABALHO_PRATICO_2](https://github.com/GabrielChavesM/TRABALHO_PRATICO_2)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
