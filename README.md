@@ -17,10 +17,6 @@
 
 ---
 
-### 🎓 Academic Projects
-- **[TRABALHO_PRATICO_2](https://github.com/GabrielChavesM/TRABALHO_PRATICO_2)**  
----
-
 ### 🤖 Automation & Tooling
 - **[WhatsApp-GPT](https://github.com/GabrielChavesM/WhatsApp-GPT)**  
 - **[geolocator_location_history](https://github.com/GabrielChavesM/geolocator_location_history)**
@@ -45,4 +41,8 @@
 
 ### 🎮 Games
 - **[TopGear-Cpp_racing-game](https://github.com/GabrielChavesM/TopGear-Cpp_racing-game)**  
+---
+
+### 🎓 Academic Projects
+- **[TRABALHO_PRATICO_2](https://github.com/GabrielChavesM/TRABALHO_PRATICO_2)**  
 ---
