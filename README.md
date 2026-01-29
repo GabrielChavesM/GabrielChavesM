@@ -21,7 +21,7 @@
 
 | Project | Stack | Link |
 |---------|-------|------|
-| ShowdownBattleAssistant | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" title="Python"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="20" title="scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" title="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" title="Pandas"/> | [GitHub](https://github.com/GabrielChavesM/ShowdownBattleAssistant) |
+| ShowdownBattleAssistant | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" title="Python"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="20" title="scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" title="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" title="Pandas"/> | [GitHub](https://github.com/GabrielChavesM/ShowdownBattleAssistant-Server) |
 
 ---
 
